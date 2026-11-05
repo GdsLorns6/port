@@ -1,0 +1,1 @@
+0000000000000000000000000000000000000000 ea0bc5bfde37f0babe438da201cee726c8d44e44 Steam Manifest Downloader <smd@local> 1793916184 +0300	commit (initial): Port Steam Manifest Downloader to Android with native background service and notifications
